@@ -1,2 +1,2 @@
-# College-C-
+# College-C++
 This is college work
